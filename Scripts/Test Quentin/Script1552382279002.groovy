@@ -30,3 +30,6 @@ WebUI.click(findTestObject('Page_taou  Interface communautaire/button_Envoi'))
 'alléluia'
 WebUI.check(findTestObject('Page_taou  Interface communautaire pour consommer local/img_DES GENS TRAVAILLENT TROP TARD POUR ACHETER EN DIRECT_wp-image-29057 alignnone size-full'))
 
+'pour fabien <3'
+WebUI.delay(10)
+
