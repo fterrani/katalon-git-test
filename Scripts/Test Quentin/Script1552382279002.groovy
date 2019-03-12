@@ -20,8 +20,12 @@ WebUI.navigateToUrl('https://www.taou.ch/')
 'je prie pour que ca marche'
 WebUI.deleteAllCookies()
 
+
 'ami de con'
 WebUI.check(findTestObject('Page_taou  Interface communautaire/textarea_Message_et_pb_contact'))
+
+WebUI.maximizeWindow()
+
 
 WebUI.setViewPortSize(300, 500)
 
@@ -35,4 +39,3 @@ WebUI.check(findTestObject('Page_taou  Interface communautaire pour consommer lo
 
 'pour fabien <3'
 WebUI.delay(10)
-
