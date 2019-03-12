@@ -23,3 +23,6 @@ WebUI.verifyTextPresent('TAOU', false)
 
 WebUI.click(findTestObject('Object Repository/Page_taou  Interface communautaire pour consommer local/img_DES GENS TRAVAILLENT TROP TARD POUR ACHETER EN DIRECT_wp-image-29057 alignnone size-full'))
 
+'le test ultime'
+WebUI.click(findTestObject('Page_taou  Interface communautaire/button_Envoi'))
+
