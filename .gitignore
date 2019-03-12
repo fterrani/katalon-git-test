@@ -2,4 +2,10 @@
 /Libs/
 /.settings/
 /.classpath
+/.project
 .svn/
+settings/
+Reports/
+
+*.class
+*.swp
