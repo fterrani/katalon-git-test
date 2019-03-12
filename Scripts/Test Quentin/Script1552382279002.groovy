@@ -20,6 +20,8 @@ WebUI.navigateToUrl('https://www.taou.ch/')
 'je prie pour que ca marche'
 WebUI.deleteAllCookies()
 
+WebUI.maximizeWindow()
+
 WebUI.setViewPortSize(300, 500)
 
 WebUI.click(findTestObject('Object Repository/Page_taou  Interface communautaire pour consommer local/img_DES GENS TRAVAILLENT TROP TARD POUR ACHETER EN DIRECT_wp-image-29057 alignnone size-full'))
